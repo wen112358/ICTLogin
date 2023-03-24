@@ -9,7 +9,7 @@ This is a simple python script used in linux x64 server for ict network login.
 
 ```
 cd ICTLogin
-pip install ./selenium-3.4.3-py2.py3-none-any.whl
+pip install ./selenium-3.4.3-py2.py3-none-any.whl --user
 python login.py
 ```
 
